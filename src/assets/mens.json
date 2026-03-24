@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Nike Dri-FIT Men's Training T-Shirt",
+      "description": "Lightweight and breathable training t-shirt designed with Dri-FIT technology to keep you cool and dry during intense workouts. Features a modern athletic fit and soft fabric for all-day comfort.",
+      "image": "https://static.nike.com/a/images/t_default/men-dri-fit-shirt.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Adidas Men's Essentials 3-Stripes Shorts",
+      "description": "Classic athletic shorts with signature 3-stripes design. Made from moisture-absorbing fabric, these shorts provide comfort and flexibility for training or casual wear.",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/shorts.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Under Armour Men's Charged Assert Running Shoes",
+      "description": "Versatile running shoes with responsive cushioning and lightweight mesh upper for breathability. Ideal for both daily runs and gym workouts.",
+      "image": "https://underarmour.scene7.com/is/image/Underarmour/running-shoes.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Puma Men's Zip-Up Training Hoodie",
+      "description": "Comfortable and stylish hoodie with full zip closure and soft fleece lining. Perfect for warming up, cooling down, or everyday wear.",
+      "image": "https://images.puma.com/image/upload/hoodie.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Reebok Men's CrossFit Nano Training Shoes",
+      "description": "Durable training shoes built for high-intensity workouts. Provides excellent stability, grip, and support for weightlifting and cross-training.",
+      "image": "https://assets.reebok.com/images/w_600,nano-shoes.jpg"
+    },
+    {
+      "id": 6,
+      "title": "New Balance Men's Performance Joggers",
+      "description": "Soft and flexible joggers designed for both performance and comfort. Features tapered fit, elastic waistband, and moisture-wicking fabric.",
+      "image": "https://nb.scene7.com/is/image/NB/joggers.jpg"
+    }
+  ]

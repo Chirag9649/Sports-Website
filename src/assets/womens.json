@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Nike Women's Dri-FIT Training Tank Top",
+      "description": "Lightweight and breathable tank top featuring Dri-FIT technology to keep you cool and dry. Designed with a relaxed fit for maximum comfort during workouts.",
+      "image": "https://static.nike.com/a/images/t_default/womens-tank.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Adidas Women's High-Waisted Leggings",
+      "description": "Stretchy and supportive high-waisted leggings made with moisture-absorbing fabric. Perfect for yoga, running, or everyday wear.",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/leggings.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Under Armour Women's Running Shoes",
+      "description": "Lightweight running shoes with responsive cushioning and breathable mesh upper. Built for comfort and performance on every run.",
+      "image": "https://underarmour.scene7.com/is/image/Underarmour/womens-running.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Puma Women's Zip-Up Hoodie",
+      "description": "Soft fleece hoodie with a full zip design and adjustable hood. Ideal for workouts or casual everyday style.",
+      "image": "https://images.puma.com/image/upload/womens-hoodie.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Reebok Women's Sports Bra",
+      "description": "Supportive and comfortable sports bra designed for medium-impact activities. Features moisture-wicking fabric and a secure fit.",
+      "image": "https://assets.reebok.com/images/w_600,sports-bra.jpg"
+    },
+    {
+      "id": 6,
+      "title": "New Balance Women's Performance Shorts",
+      "description": "Breathable and flexible shorts with an elastic waistband and quick-dry fabric. Perfect for training, running, or lounging.",
+      "image": "https://nb.scene7.com/is/image/NB/womens-shorts.jpg"
+    }
+  ]
